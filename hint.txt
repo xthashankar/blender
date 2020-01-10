@@ -1,0 +1,11 @@
+remmber this things:
+
+during modeling if u see any black face as u are seeing right now, then press, ctrl+N
+this will make "Normal"...Oi subdivide  garna ki subdivide smooth garna
+
+dnt ever do smooth subdivide.
+always subdivide with W key word.
+
+your model als has too many double vertices which are overlapping with one other,
+u need to remove double vertices
+by pressing w > remove doubles, try now!ok bye
